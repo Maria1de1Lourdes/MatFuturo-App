@@ -13,10 +13,10 @@ st.markdown(
     """
     <style>
     [data-testid="stAppViewContainer"] {
-        background-color: #f4d1ff;
+        background-color: #26874E;
     }
     [data-testid="stHeader"] {
-        background-color: #f4d1ff;
+        background-color: #26874E;
     }
     </style>
     """,
